@@ -30,7 +30,7 @@ words_mommy = []
 MOMMY = ""
 
 # Your status, you can use format() to concat strings
-# STATUS = "My example frase, {}, to {}"
+# STATUS = "My example status, {}, to {}"
 # example = "example"
 # STATUS.format(example, MOMMY)
 STATUS = ""
