@@ -11,4 +11,5 @@ Edit mommy.py.
 
   * Put your credentials of twitter (link's in code).
   * Add 24 words on [words_mommy](https://github.com/marioidival/mommy/blob/master/mommy.py#L27) list.
+  * Write a [status](https://github.com/marioidival/mommy/blob/master/mommy.py#L36) to tweet, with one of [words_mommy](https://github.com/marioidival/mommy/blob/master/mommy.py#L27)
   * Run ! `python mommy.py`
